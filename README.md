@@ -55,3 +55,6 @@ SSFv0 is a 2D arcade-style game wrought using Pygame. Players take the helm of a
     -   Move right: 'D'
     -   Shoot: 'W'
 
+## 👨‍💻 Authors
+- **Ivan Hancharyk** – [https://github.com/Vania2003]
+- **Borys Komarov** – [https://github.com/Barysk]
